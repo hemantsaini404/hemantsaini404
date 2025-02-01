@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [Java](Java)
 
-- 💬 Ask me about **C**
+- 💬 Ask me about **Python**
 
 - ⚡ Fun fact **I think, I am Curious Person To Learn every thing**
 
