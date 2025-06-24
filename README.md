@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Library DashBoard**
 
-- 🌱 I’m currently learning **Visual Basic**
+- 🌱 I’m currently learning **react , node js **
 
 - 👯 I’m looking to collaborate on **Software Development**
 
