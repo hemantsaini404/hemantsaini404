@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **Software Development**
 
-- 📝 I regularly write articles on [Java](Java)
-
 - 💬 Ask me about **Python**
 
 - ⚡ Fun fact **I think, I am Curious Person To Learn every thing**
